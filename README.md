@@ -1,2 +1,4 @@
 # hass-ebeco
-Ebeco Floor Heating Thermostat Integration
+Home Assistant integration for Ebeco Floor Heating Thermostat EB-Therm 500 with EB-Connect WiFi
+
+Integration is under development!
